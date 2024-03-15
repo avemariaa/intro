@@ -15,8 +15,8 @@ I'm Bea Vergara, a passionate and ambitious software developer from Taguig.
 ### Connect with me:
 
 [LinkedIn](https://www.linkedin.com/in/beatrice-vergara-473546243)
-[Twitter](https://twitter.com/tsaurli)
-[Facebook](https://facebook.com/veav3rgara/)
+[𝕏 ](https://twitter.com/tsaurli)
+[🇫](https://facebook.com/veav3rgara/)
 
 ### Languages and Tools:
 
