@@ -1,5 +1,5 @@
 # intro
-walang intro intro hello agad!!!!!!
+walang intro intro hello agad!!!!!
 # Hi there! 👋
 
 I'm Bea Vergara, a passionate and ambitious software developer from Taguig.
